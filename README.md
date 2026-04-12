@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 Meine Roadmap (Zum Abhaken)
+## 📚 Meine Roadmap
 - [ ] 1. Python (Aktuell)
 - [ ] 2. Dart & Flutter
 - [ ] 3. OAuth 2.0 & OpenID Connect
@@ -21,4 +21,8 @@
 - [ ] 8. W3C DID & Verifiable Credentials
 - [ ] 9. Mikropayments (z. B. Bitcoin Lightning)
 
+---
+
 [![roadmap.sh](https://roadmap.sh/card/tall/695ea602b5796bd00cd06fdd?variant=dark)](https://roadmap.sh)
+
+---
