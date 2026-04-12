@@ -1,3 +1,24 @@
 # Johannes
 
+
+---
+
+## 🛠️ Was ich schon kann
+- [x] Starkes Grundwissen über Finanzen & Unternehmenskennzahlen
+- [x] Verständnis für verschiedene Geschäftsmodelle
+- [x] Logische Schwachstellen in Systemen finden
+
+---
+
+## 📚 Meine Roadmap (Zum Abhaken)
+- [ ] 1. Python (Aktuell)
+- [ ] 2. Dart & Flutter
+- [ ] 3. OAuth 2.0 & OpenID Connect
+- [ ] 4. Rust
+- [ ] 5. Asymmetrische Kryptografie
+- [ ] 6. Hardware-Sicherheitschips (TPM / Secure Enclave)
+- [ ] 7. Zero-Knowledge Proofs (ZKP)
+- [ ] 8. W3C DID & Verifiable Credentials
+- [ ] 9. Mikropayments (z. B. Bitcoin Lightning)
+
 [![roadmap.sh](https://roadmap.sh/card/tall/695ea602b5796bd00cd06fdd?variant=dark)](https://roadmap.sh)
