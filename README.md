@@ -10,7 +10,7 @@
 ---
 
 ## 📚 Meine Roadmap
-- [ ] 1. Python (Aktuell)
+- [⏳] 1. Python
 - [ ] 2. Dart & Flutter
 - [ ] 3. OAuth 2.0 & OpenID Connect
 - [ ] 4. Rust
