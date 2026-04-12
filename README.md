@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ Was ich schon kann
-- [x] Starkes Grundwissen über Finanzen & Unternehmenskennzahlen (ROIC ,EBIT-Marge, ...)
+- [x] Starkes Grundwissen über Finanzen & Unternehmenskennzahlen (ROIC ,EBIT-Marge, )
 - [x] Verständnis für verschiedene Geschäftsmodelle (Razor- and Blade)
 
 ---
