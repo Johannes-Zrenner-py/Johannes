@@ -4,9 +4,8 @@
 ---
 
 ## 🛠️ Was ich schon kann
-- [x] Starkes Grundwissen über Finanzen & Unternehmenskennzahlen
-- [x] Verständnis für verschiedene Geschäftsmodelle
-- [x] Logische Schwachstellen in Systemen finden
+- [x] Starkes Grundwissen über Finanzen & Unternehmenskennzahlen (ROIC ,EBIT-Marge, ...)
+- [x] Verständnis für verschiedene Geschäftsmodelle (Razor- and Blade)
 
 ---
 
